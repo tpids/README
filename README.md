@@ -1,4 +1,5 @@
 # README
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=READ%20ME&fontSize=90)
 
 ## ⛏ 기술스택
 <table>
@@ -78,7 +79,7 @@
     </tr>
 </table>
 
-## ☆ contact
+## 📫 contact
 
 <img src="https://img.shields.io/badge/My Velog -20C997?style=for-the-badge&logo=Velog&logoColor=black"> [velog/tpids](https://velog.io/@tpids/posts) <br>
 <img src="https://img.shields.io/badge/My Gmail -EA4335?style=for-the-badge&logo=Gmail&logoColor=black"> <tpids99@gmail.com>
